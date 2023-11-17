@@ -27,14 +27,13 @@ Equipe: Lucas Serrato Bonito
 
 
 
-
 Modelo conceitual:
 
 ![image](https://github.com/LucasSerrato/Sistema-de-marmitas/assets/118152935/5c1e1d8c-9bf8-4319-9ff2-e29814e5b52e)
 
 
-> Paleta de cores (Principal);
-> =
+Paleta de cores (Principal);
+
 #00bf63 - verde claro
 
 #ed2024 - vermelho
@@ -43,9 +42,8 @@ Modelo conceitual:
 
 #000000 - preto
 
+ Paleta de cores (Alternativa e gradiente);
 
-> Paleta de cores (Alternativa e gradiente);
-> =
 #163117
 
 #3ADC2C
