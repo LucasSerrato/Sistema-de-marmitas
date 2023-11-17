@@ -22,6 +22,12 @@ Funcionalidade 9 - Deve exibir histórico de consulta do usuário;
 
 Funcionalidade 10 - Deve exibir copyright.
 
-Equipe:
+Equipe: Lucas Serrato Bonito
 
-Lucas Serrato Bonito
+
+
+
+
+Modelo conceitual:
+
+![image](https://github.com/LucasSerrato/Sistema-de-marmitas/assets/118152935/5c1e1d8c-9bf8-4319-9ff2-e29814e5b52e)
