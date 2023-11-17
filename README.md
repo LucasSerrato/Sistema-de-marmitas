@@ -31,3 +31,34 @@ Equipe: Lucas Serrato Bonito
 Modelo conceitual:
 
 ![image](https://github.com/LucasSerrato/Sistema-de-marmitas/assets/118152935/5c1e1d8c-9bf8-4319-9ff2-e29814e5b52e)
+Text that is not a quote
+
+> Text that is a quote
+Paleta de cores (Principal)
+#00bf63 - verde claro
+
+#ed2024 - vermelho
+
+#3bbca1 - verde água
+
+#000000 - preto
+
+Text that is not a quote
+
+> Text that is a quote
+> Paleta de cores (Alternativa e gradiente)
+#163117
+
+#3ADC2C
+
+#3ADC2C
+
+#455947
+
+#8FE188
+
+#415250
+
+#02322C
+
+#D9D9D9
