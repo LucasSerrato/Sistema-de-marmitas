@@ -73,6 +73,47 @@ The project was tested using various data entry scenarios to ensure functional i
 - Improve UI with responsive design techniques.
 
 ---
+## ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Projeto-Spring-Boot-Webservice-REST.git
+```
+
+2. Open the project in your IDE (such as IntelliJ IDEA or Eclipse).
+
+3. Run the main class:
+```bash
+ProjectApplication.java
+```
+
+4. Access the H2 console:
+```
+http://localhost:8080/h2-console
+```
+
+5. Access the Swagger UI (if available):
+```
+http://localhost:8080/swagger-ui.html
+```
+
+## 📌 Notes
+
+- This project is for educational purposes.
+- It follows a clean, modular architecture to improve code readability and maintainability.
+- The API can be easily expanded to support more complex business rules or connect to an external database.
+
+## 🤝 Contributions
+
+Feel free to fork this repository, submit issues or pull requests. Contributions are welcome!
+
+## 📧 Contact
+
+Lucas Serrato  
+[Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)  
+Email: alfalifeclothes@gmail.com  
+"Want to support my work? You can donate here: https://livepix.gg/lkshow"
+
 
 # Sistema de Marmitas Saudáveis
 
@@ -153,43 +194,44 @@ O sistema foi testado em diversos cenários de uso para garantir a integridade d
 📢 *Este projeto representa a interseção entre tecnologia, saúde e responsabilidade social, reforçando os princípios de formação técnica e acadêmica do aluno.*
 ---
 
-## ▶️ How to Run
+## ▶️ Como executar
 
-1. Clone the repository:
+1. Clone o repositório:
 ```bash
-git clone https://github.com/yourusername/Projeto-Spring-Boot-Webservice-REST.git
+git clone https://github.com/seunomedeusuario/Projeto-Spring-Boot-Webservice-REST.git
 ```
 
-2. Open the project in your IDE (such as IntelliJ IDEA or Eclipse).
+2. Abra o projeto no seu IDE (como IntelliJ IDEA ou Eclipse).
 
-3. Run the main class:
+3. Execute a classe principal:
 ```bash
 ProjectApplication.java
 ```
 
-4. Access the H2 console:
+4. Acesse o console H2:
 ```
 http://localhost:8080/h2-console
 ```
 
-5. Access the Swagger UI (if available):
+5. Acesse a IU do Swagger (se disponível):
 ```
 http://localhost:8080/swagger-ui.html
 ```
 
-## 📌 Notes
+## 📌 Observações
 
-- This project is for educational purposes.
-- It follows a clean, modular architecture to improve code readability and maintainability.
-- The API can be easily expanded to support more complex business rules or connect to an external database.
+- Este projeto é para fins educacionais.
+- Ele segue uma arquitetura limpa e modular para melhorar a legibilidade e a manutenção do código.
+- A API pode ser facilmente expandida para suportar regras de negócios mais complexas ou conectar-se a um banco de dados externo.
 
-## 🤝 Contributions
+## 🤝 Contribuições
 
-Feel free to fork this repository, submit issues or pull requests. Contributions are welcome!
+Sinta-se à vontade para bifurcar este repositório, enviar problemas ou solicitações de pull. Contribuições são bem-vindas!
 
-## 📧 Contact
+## 📧 Contato
 
-Lucas Serrato  
-[Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)  
-Email: alfalifeclothes@gmail.com  
-"Want to support my work? You can donate here: https://livepix.gg/lkshow"
+Lucas Serrato
+[Perfil no LinkedIn](https://www.linkedin.com/in/lucasserrato201/)
+E-mail: alfalifeclothes@gmail.com
+"Quer apoiar meu trabalho? Você pode doar aqui: https://livepix.gg/lkshow"
+
