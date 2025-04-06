@@ -74,7 +74,7 @@ The project was tested using various data entry scenarios to ensure functional i
 
 ---
 
-# 🇧🇷 Sistema de Marmitas Saudáveis
+# Sistema de Marmitas Saudáveis
 
 ## 📘 Visão Geral do Projeto Acadêmico
 
